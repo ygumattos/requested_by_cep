@@ -1,0 +1,16 @@
+{
+  "name": "Requested_by_CEP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ygortfive/requested_by_cep.git",
+  "author": "Ygor Mattos",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-correios": "^3.0.2",
+    "nodemon": "^1.19.2"
+  }
+}
